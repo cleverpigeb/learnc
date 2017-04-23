@@ -1,4 +1,4 @@
-/*最长回文字符串（1）*/
+/*最长回文子串（1）*/
 
 #include <stdio.h>
 #include <string.h>
